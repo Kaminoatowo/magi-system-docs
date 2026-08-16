@@ -1,6 +1,6 @@
 # MAGI System — Docs
 
-Documentazione ufficiale del [MAGI System](https://github.com/Kaminoatowo/magi-system), pubblicata con [VitePress](https://vitepress.dev) su GitHub Pages.
+Documentazione ufficiale del [MAGI System](https://magi-system-two.vercel.app) (codice sorgente su [GitHub](https://github.com/Kaminoatowo/magi-system)), pubblicata con [VitePress](https://vitepress.dev) su GitHub Pages.
 
 ## Sviluppo locale
 

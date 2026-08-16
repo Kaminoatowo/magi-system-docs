@@ -1,6 +1,6 @@
 # Usare il sito
 
-Il sito è un'app web che gira nel browser. Questa pagina ti guida tra le sezioni principali.
+Il sito è un'app web che gira nel browser. Apri l'app all'indirizzo **https://magi-system-two.vercel.app** (o usa il link **App ↗** nella barra di navigazione) e prosegui con questa guida.
 
 ## La barra di navigazione
 

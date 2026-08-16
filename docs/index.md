@@ -17,7 +17,7 @@ hero:
       link: /models/overview
     - theme: alt
       text: Vai all'app
-      link: https://github.com/Kaminoatowo/magi-system
+      link: https://magi-system-two.vercel.app
 
 features:
   - icon: 🧠

@@ -10,7 +10,7 @@ export default defineConfig({
     nav: [
       { text: "Guida", link: "/guide/what-is-magi" },
       { text: "Modelli", link: "/models/overview" },
-      { text: "App", link: "https://github.com/Kaminoatowo/magi-system" },
+      { text: "App", link: "https://magi-system-two.vercel.app" },
     ],
     sidebar: {
       "/guide/": [
