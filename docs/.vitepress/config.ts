@@ -6,7 +6,7 @@ export default defineConfig({
   lang: "it-IT",
   base: "/magi-system-docs/",
   themeConfig: {
-    logo: "/magi-system-docs/logo.svg",
+    logo: "/logo.svg",
     nav: [
       { text: "Guida", link: "/guide/what-is-magi" },
       { text: "Modelli", link: "/models/overview" },

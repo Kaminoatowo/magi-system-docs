@@ -6,7 +6,7 @@ hero:
   text: "Il supercomputer a tre menti"
   tagline: "Melchior, Balthasar e Casper deliberano insieme su ogni tua domanda. Documentazione ufficiale del progetto."
   image:
-    src: /magi-system-docs/logo.svg
+    src: /logo.svg
     alt: MAGI System
   actions:
     - theme: brand
